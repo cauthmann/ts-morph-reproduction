@@ -1,0 +1,14 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "author": "Christian Authmann",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node ./run.js"
+  },
+  "dependencies": {
+    "package-a": "*",
+    "ts-morph": "^11.0.0"
+  }
+}

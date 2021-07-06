@@ -1,0 +1,8 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "main": "dependency.js",
+  "author": "Christian Authmann",
+  "license": "UNLICENSED",
+  "private": true
+}
